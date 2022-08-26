@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871998575377",
+    "project_id": "digipuff-63c87",
+    "storage_bucket": "digipuff-63c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871998575377:android:84e0ea9079a7c9166632b0",
+        "android_client_info": {
+          "package_name": "com.example.smart_inhaler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871998575377-5dp3tslqeps7sl7aj8id2tpf8nn19k1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClZ2FWa4I5IPJIDgxXAEndXyoqz8dI87g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871998575377-5dp3tslqeps7sl7aj8id2tpf8nn19k1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
